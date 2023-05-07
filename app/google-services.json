@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29547582595",
+    "firebase_url": "https://couplediary-f6142-default-rtdb.firebaseio.com",
+    "project_id": "couplediary-f6142",
+    "storage_bucket": "couplediary-f6142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29547582595:android:750998621f0f01ca85b7b6",
+        "android_client_info": {
+          "package_name": "com.example.couplediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29547582595-4f7h21bdpmtoqug2p2a7fl83cgfr6kkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQUK5AOE0lYjZwRNL7zr1aSn6f8TwJ1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29547582595-4f7h21bdpmtoqug2p2a7fl83cgfr6kkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
